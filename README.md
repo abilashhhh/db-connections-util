@@ -25,13 +25,7 @@ A comprehensive utility package for parsing, encrypting, and reconstructing data
 ```bash
 npm install db-connections-util
 ```
-
-### NPM Stats
-
-[![npm version](https://img.shields.io/npm/v/db-connections-util)](https://www.npmjs.com/package/db-connections-util)
-[![npm downloads](https://img.shields.io/npm/dw/db-connections-util)](https://www.npmjs.com/package/db-connections-util)
-
-
+ 
 ## Quick Start
 
 ```javascript
