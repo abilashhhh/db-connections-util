@@ -1,0 +1,26 @@
+{
+  "name": "db-connections-util",
+  "version": "1.0.0",
+  "description": "A utility package for parsing, encrypting, and reconstructing database connection strings",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"No tests yet\"",
+    "lint": "echo \"No linter yet\""
+  },
+  "keywords": [
+    "database",
+    "connection",
+    "parser",
+    "mongodb",
+    "postgresql",
+    "mysql",
+    "redis",
+    "cosmosdb",
+    "encryption"
+  ],
+  "author": "Abilash N <abilashnarayanan2001@gmail.com>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
